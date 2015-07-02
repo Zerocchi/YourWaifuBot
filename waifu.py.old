@@ -6,11 +6,11 @@ import requests
 import time
 import yaml
 
-TOKEN = ""
+TOKEN = "109401371:AAEw4eakpQGmoWp5FaR6CpyqHZo-m3SKlOs"
 URL = "https://api.telegram.org/bot" + TOKEN
 
 def getData():
-    data = json.loads(requests.post(URL + "/getUpdates").text)
+    data = json.loads(requests.post(URL + "/getUpdates?timeout=10").text)
     result = data['result']
     return result
 
@@ -29,7 +29,7 @@ def getUpdates():
     text = result[res_len]['message']['text']
     if(text.startswith('/')):
         if(text.startswith('/waifu')):
-            with open('~/WaifuBot/waifu.yml', 'r') as f:
+            with open('waifu.yml', 'r') as f:
                 waifu = yaml.load(f)
             waifu_text = random.choice(list(waifu.keys()))
             waifu_title = waifu[waifu_text][0]
@@ -42,7 +42,7 @@ def getUpdates():
                 params = {'chat_id': chat_id, 'reply_to_message_id': msg_id, 'text': user_name + '\'s waifu is ' + waifu_text + ' (' + waifu_title + ')'}
                 status = requests.post(URL + "/sendMessage", params=params)
         elif(text.startswith('/shipgirl')):
-            with open('~/WaifuBot/shipgirl.yml', 'r') as f:
+            with open('shipgirl.yml', 'r') as f:
                 waifu = yaml.load(f)
             waifu_text = random.choice(list(waifu.keys()))
             waifu_title = waifu[waifu_text][0]
@@ -62,6 +62,7 @@ current_reslen = len(getData()) - 1
 while True:
     if(result_length != current_reslen):
         current_reslen = getUpdates()
+        # print(status)
         result_length = current_reslen
     time.sleep(1)
     current_reslen = len(getData())-1

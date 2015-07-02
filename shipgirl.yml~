@@ -1,23 +1,5 @@
 # - Kancolle
-Mutsuki:
- - Kancolle
-Kisaragi:
- - Kancolle
-Yayoi:
- - Kancolle
-Uzuki:
- - Kancolle
-Satsuki:
- - Kancolle
-Fumizuki:
- - Kancolle
-Nagatsuki:
- - Kancolle
-Kikuzuki:
- - Kancolle
-Mikazuki:
- - Kancolle
-Mochizuki:
+Shimakaze:
  - Kancolle
 Fubuki:
  - Kancolle
@@ -43,6 +25,22 @@ Sazanami:
  - Kancolle
 Ushio:
  - Kancolle
+Mutsuki:
+ - Kancolle
+Kisaragi:
+ - Kancolle
+Satsuki:
+ - Kancolle
+Fumizuki:
+ - Kancolle
+Nagatsuki:
+ - Kancolle
+Kikuzuki:
+ - Kancolle
+Mikazuki:
+ - Kancolle
+Mochizuki:
+ - Kancolle
 Akatsuki:
  - Kancolle
 Hibiki:
@@ -67,8 +65,6 @@ Murasame:
  - Kancolle
 Yuudachi:
  - Kancolle
-Harusame:
- - Kancolle
 Samidare:
  - Kancolle
 Suzukaze:
@@ -81,10 +77,6 @@ Michishio:
  - Kancolle
 Arashio:
  - Kancolle
-Yamagumo:
- - Kancolle
-Asagumo:
- - Kancolle
 Arare:
  - Kancolle
 Kasumi:
@@ -95,23 +87,9 @@ Shiranui:
  - Kancolle
 Kuroshio:
  - Kancolle
-Hatsukaze:
- - Kancolle
 Yukikaze:
  - Kancolle
-Amatsukaze:
- - Kancolle
-Tokitsukaze:
- - Kancolle
-Urakaze:
- - Kancolle
-Isokaze:
- - Kancolle
-Hamakaze:
- - Kancolle
-Tanikaze:
- - Kancolle
-Nowaki:
+Hatsukaze:
  - Kancolle
 Maikaze:
  - Kancolle
@@ -123,21 +101,31 @@ Makigumo:
  - Kancolle
 Naganami:
  - Kancolle
-Asashimo:
+Yayoi:
  - Kancolle
-Hayashimo:
+Uzuki:
  - Kancolle
-Kiyoshimo:
+Isokaze:
  - Kancolle
-Takanami:
+Urakaze:
  - Kancolle
-Akizuki:
+Tanikaze:
  - Kancolle
-Shimazake:
+Hamakaze:
+ - Kancolle
+Amatsukaze:
+ - Kancolle
+Tokitsukaze:
  - Kancolle
 Z1:
  - Kancolle
 Z3:
+ - Kancolle
+Harusame:
+ - Kancolle
+Hayashimo:
+ - Kancolle
+Kiyoshimo:
  - Kancolle
 Tenryuu:
  - Kancolle
@@ -146,10 +134,6 @@ Tatsuta:
 Kuma:
  - Kancolle
 Tama:
- - Kancolle
-Kitakami:
- - Kancolle
-Ooi:
  - Kancolle
 Kiso:
  - Kancolle
@@ -171,7 +155,11 @@ Jintsuu:
  - Kancolle
 Naka:
  - Kancolle
-Katori:
+Ooi:
+ - Kancolle
+Kitakami:
+ - Kancolle
+Yuubari:
  - Kancolle
 Agano:
  - Kancolle
@@ -180,8 +168,6 @@ Noshiro:
 Yahagi:
  - Kancolle
 Sakawa:
- - Kancolle
-Yuubari:
  - Kancolle
 Ooyodo:
  - Kancolle
@@ -195,11 +181,11 @@ Kinugasa:
  - Kancolle
 Myoukou:
  - Kancolle
-Haguro:
- - Kancolle
 Nachi:
  - Kancolle
 Ashigara:
+ - Kancolle
+Haguro:
  - Kancolle
 Takao:
  - Kancolle
@@ -209,6 +195,10 @@ Maya:
  - Kancolle
 Choukai:
  - Kancolle
+Tone:
+ - Kancolle
+Chikuma:
+ - Kancolle
 Mogami:
  - Kancolle
 Mikuma:
@@ -217,11 +207,9 @@ Suzuya:
  - Kancolle
 Kumano:
  - Kancolle
-Tone:
+Nagato:
  - Kancolle
-Chikuma:
- - Kancolle
-Prinz-Eugen:
+Mutsu:
  - Kancolle
 Kongou:
  - Kancolle
@@ -239,25 +227,15 @@ Ise:
  - Kancolle
 Hyuuga:
  - Kancolle
-Nagato:
- - Kancolle
-Mutsu:
- - Kancolle
 Yamato:
  - Kancolle
 Musashi:
  - Kancolle
 Bismarck:
  - Kancolle
-Littorio:
- - Kancolle
-Roma:
- - Kancolle
 Houshou:
  - Kancolle
 Ryuujou:
- - Kancolle
-Ryuuhou:
  - Kancolle
 Hiyou:
  - Kancolle
@@ -271,6 +249,8 @@ Chitose:
  - Kancolle
 Chiyoda:
  - Kancolle
+Ryuuhou:
+ - Kancolle
 Akagi:
  - Kancolle
 Kaga:
@@ -283,117 +263,19 @@ Shoukaku:
  - Kancolle
 Zuikaku:
  - Kancolle
-Unryuu:
- - Kancolle
-Amagi:
- - Kancolle
-Katsuragi:
- - Kancolle
 Taihou:
  - Kancolle
-I-8:
+Unryuu:
  - Kancolle
-I-19:
+I8:
  - Kancolle
-I-58:
+I19:
  - Kancolle
-I-401:
+I168:
  - Kancolle
-I-168:
+I58:
+ - Kancolle
+I401:
  - Kancolle
 Maruyu:
  - Kancolle
-U-511:
- - Kancolle
-Ro-500:
- - Kancolle
-Akitsushima:
- - Kancolle
-Taigei:
- - Kancolle
-Akitsu Maru:
- - Kancolle
-Akashi:
- - Kancolle
-Destroyer I-Class:
- - Abyssal
-Destroyer Ro-Class:
- - Abyssal
-Destroyer Ha-Class:
- - Abyssal
-Destroyer Ni-Class:
- - Abyssal
-Light Cruiser Ho-Class:
- - Abyssal
-Light Cruiser He-Class:
- - Abyssal
-Light Cruiser To-Class:
- - Abyssal
-Light Cruiser Tsu-Class:
- - Abyssal
-Torpedo Cruiser Chi-Class:
- - Abyssal
-Heavy Cruiser Ri-Class:
- - Abyssal
-Heavy Cruiser Ne-Class:
- - Abyssal
-Light Carrier Nu-Class:
- - Abyssal
-Carrier Wo-Class:
- - Abyssal
-Battleship Ru-Class:
- - Abyssal
-Battleship Ta-Class:
- - Abyssal
-Battleship Re-Class:
- - Abyssal
-Transport Ship Wa-Class:
- - Abyssal
-Submarine Ka-Class:
- - Abyssal
-Submarine Yo-Class:
- - Abyssal
-Submarine So-Class:
- - Abyssal
-Armored Carrier Demon:
- - Abyssal
-Armored Carrier Princess:
- - Abyssal
-Anchorage Demon:
- - Abyssal
-Anchorage Princess:
- - Abyssal
-Southern Demon:
- - Abyssal
-Southern War Demon:
- - Abyssal
-Southern War Princess:
- - Abyssal
-Airfield Princess:
- - Abyssal
-Battleship Princess:
- - Abyssal
-Harbour Princess:
- - Abyssal
-Isolated Island Demon:
- - Abyssal
-Northern Princess:
- - Abyssal
-Aircraft Carrier Demon:
- - Abyssal
-Midway Princess:
- - Abyssal
-Aircraft Carrier Princess:
- - Abyssal
-Destroyer Princess:
- - Abyssal
-Aircraft Carrier Water Demon:
- - Abyssal
-Light Cruiser Demon:
- - Abyssal
-Battleship Water Demon:
- - Abyssal
-Harbour Water Demon:
- - Abyssal
-Anchorage Water Demon:
- - Abyssal
