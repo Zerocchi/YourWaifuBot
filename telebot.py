@@ -29,7 +29,7 @@ def getUpdates():
     text = result[res_len]['message']['text']
     if(text.startswith('/')):
         if(text.startswith('/waifu')):
-            with open('/home/zerocchi/Documents/WaifuBot/waifu.yml', 'r') as f:
+            with open('~/WaifuBot/waifu.yml', 'r') as f:
                 waifu = yaml.load(f)
             waifu_text = random.choice(list(waifu.keys()))
             waifu_title = waifu[waifu_text][0]
@@ -42,7 +42,7 @@ def getUpdates():
                 params = {'chat_id': chat_id, 'reply_to_message_id': msg_id, 'text': user_name + '\'s waifu is ' + waifu_text + ' (' + waifu_title + ')'}
                 status = requests.post(URL + "/sendMessage", params=params)
         elif(text.startswith('/shipgirl')):
-            with open('/home/zerocchi/Documents/WaifuBot/shipgirl.yml', 'r') as f:
+            with open('~/WaifuBot/shipgirl.yml', 'r') as f:
                 waifu = yaml.load(f)
             waifu_text = random.choice(list(waifu.keys()))
             waifu_title = waifu[waifu_text][0]
