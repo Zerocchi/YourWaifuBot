@@ -8,7 +8,7 @@ import os
 import random
 import yaml
 
-TOKEN = '109401371:AAEw4eakpQGmoWp5FaR6CpyqHZo-m3SKlOs'
+TOKEN = ''
 
 def listener(*messages):
 	for m in messages:
@@ -41,11 +41,11 @@ def listener(*messages):
 							tb.send_chat_action(chatid, 'upload_photo')
 							tb.send_photo(chatid, photo, caption=name + '\'s shipgirl is ' + waifu_text + ' (' + waifu_title + ')', reply_to_message_id=msgid)
 						except OSError:
-							tb.send_message(chatid, text=name + '\'s waifu is ' + waifu_text + ' (' + waifu_title + ')', reply_to_message_id=msgid)
+							tb.send_message(chatid, text=name + '\'s shipgirl is ' + waifu_text + ' (' + waifu_title + ')', reply_to_message_id=msgid)
 
 tb = telebot.TeleBot(TOKEN)
 tb.get_update()  # cache exist message
 tb.set_update_listener(listener) #register listener
-tb.polling(3)
+tb.polling(10)
 while True:
 	time.sleep(1)
