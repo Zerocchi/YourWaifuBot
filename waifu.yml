@@ -3,7 +3,7 @@
   - To Aru Kagaku no Railgun
  Shirai Kuroko:
   - To Aru Kagaku no Railgun
- Index Librorum Prohibitorum:
+ Index:
   - To Aru Kagaku no Railgun
  Misaka Misuzu:
   - To Aru Kagaku no Railgun
@@ -117,13 +117,13 @@
   - Hibike! Euphonium
  Tanaka Asuka:
   - Hibike! Euphonium
- Natsuki Nakagawa:
+ Nakagawa Natsuki:
   - Hibike! Euphonium
- Hazuki Katou:
+ Katou Hazuki:
   - Hibike! Euphonium
- Sapphire Kawashima:
+ Kawashima Sapphire:
   - Hibike! Euphonium
- Yuuko Yoshikawa:
+ Yoshikawa Yuuko:
   - Hibike! Euphonium
  Tubacabra:
   - Hibike! Euphonium
@@ -133,7 +133,7 @@
   - Oreimo
  Kousaka Kirino:
   - Oreimo
- Ruri Gokou:
+ Gokou Ruri:
   - Oreimo
  Kuroneko:
   - Oreimo
@@ -167,6 +167,10 @@
   - KILL la KILL
  Hououmaru Rei:
   - KILL la KILL
+ Iori Shirou:
+  - KILL la KILL
+ Mikisugi Aikurou:
+  - KILL la KILL
   
 # Ore no Seishun
  Isshiki Iroha:
@@ -192,104 +196,134 @@
  Error Musume:
   - Kantai Collection
   
-# JoJo's Bizarre Adventures
+# JoJo no Kimyou na Bouken
  Dio Brando:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
  Jonathan Joestar:
-  - JoJo's Bizarre Adventures
- Robert Edward O. Speedwagon:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
+ Robert EO Speedwagon:
+  - JoJo no Kimyou na Bouken
  Joseph Joestar:
-  - JoJo's Bizarre Adventures
- Caesar Zeppeli:
-  - JoJo's Bizarre Adventures
- Rudol von Stroheim:
-  - JoJo's Bizarre Adventures
- Esidisi:
-  - JoJo's Bizarre Adventures
- Wamuu:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
+ Caesar Anthonio Zeppeli:
+  - JoJo no Kimyou na Bouken
+ Rudolph von Stroheim:
+  - JoJo no Kimyou na Bouken
+ Esidici:
+  - JoJo no Kimyou na Bouken
+ Wham:
+  - JoJo no Kimyou na Bouken
  Kars:
-  - JoJo's Bizarre Adventures
- Jotaru Kujo:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
+ Kuujou Joutarou:
+  - JoJo no Kimyou na Bouken
  Star Platinum:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
+ DIO:
+  - JoJo no Kimyou na Bouken
  ZA WARUDO:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
  Vanilla Ice:
-  - JoJo's Bizarre Adventures
- Josuke Higashikata:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
+ Higashikata Jousuke:
+  - JoJo no Kimyou na Bouken
  Giorno Giovanna:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
  Diavolo:
-  - JoJo's Bizarre Adventures
+  - JoJo no Kimyou na Bouken
   
 # Jigoku Shoujo
- Ai Enma:
+ Enma Ai:
   - Jigoku Shoujo
   
-# Puella Magi Madoka Magica
+# Mahou Shoujo Madoka Magica
  Kaname Madoka:
-  - Puella Magi Madoka Magica
+  - Mahou Shoujo Madoka Magica
  Akemi Homura:
-  - Puella Magi Madoka Magica
+  - Mahou Shoujo Madoka Magica
  Tomoe Mami:
-  - Puella Magi Madoka Magica
+  - Mahou Shoujo Madoka Magica
  Miki Sayaka:
-  - Puella Magi Madoka Magica
+  - Mahou Shoujo Madoka Magica
  Sakura Kyouko:
-  - Puella Magi Madoka Magica
+  - Mahou Shoujo Madoka Magica
  Momoe Nagisa:
-  - Puella Magi Madoka Magica
+  - Mahou Shoujo Madoka Magica
  Kyubey:
-  - Puella Magi Madoka Magica
+  - Mahou Shoujo Madoka Magica
+ Mikuni Oriko:
+  - Mahou Shoujo Oriko Magica
+ Kure Kirika:
+  - Mahou Shoujo Oriko Magica
+ Chitose Yuma:
+  - Mahou Shoujo Oriko Magica
+ Asami Saki:
+  - Mahou Shoujo Kazumi Magica
+ Kanna Nico:
+  - Mahou Shoujo Kazumi Magica
+ Kazusa Michiru:
+  - Mahou Shoujo Kazumi Magica
+ Maki Kaoru:
+  - Mahou Shoujo Kazumi Magica
+ Misaki Umika:
+  - Mahou Shoujo Kazumi Magica
+ Usagi Satomi:
+  - Mahou Shoujo Kazumi Magica
+ Amano Suzune:
+  - Mahou Shoujo Suzune Magica
+ Hinata Matsuri:
+  - Mahou Shoujo Suzune Magica
+ Kanade Haruka:
+  - Mahou Shoujo Suzune Magica
+ Narumi Arisa:
+  - Mahou Shoujo Suzune Magica
+ Shion Chisato:
+  - Mahou Shoujo Suzune Magica
   
-# Yuki Yuna wa Yusha de Aru
- Yuki Yuna:
-  - Yuki Yuna wa Yusha de Aru
- Togo Mimori:
-  - Yuki Yuna wa Yusha de Aru
- Inubouzaki Fu:
-  - Yuki Yuna wa Yusha de Aru
+# Yuuki Yuuna wa Yusha de Aru
+ Yuuki Yuuna:
+  - Yuuki Yuuna wa Yusha de Aru
+ Tougou Mimori:
+  - Yuuki Yuuna wa Yusha de Aru
+ Inubouzaki Fuu:
+  - Yuuki Yuuna wa Yusha de Aru
  Inubouzaki Itsuki:
-  - Yuki Yuna wa Yusha de Aru
+  - Yuuki Yuuna wa Yusha de Aru
  Miyoshi Karin:
-  - Yuki Yuna wa Yusha de Aru
+  - Yuuki Yuuna wa Yusha de Aru
  Nogi Sonoko:
-  - Yuki Yuna wa Yusha de Aru
+  - Yuuki Yuuna wa Yusha de Aru
  Minowa Gin:
-  - Yuki Yuna wa Yusha de Aru
+  - Yuuki Yuuna wa Yusha de Aru
   
 # Shokugeki no Soma
- Erina Nakiri:
+ Nakiri Erina:
   - Shokugeki no Soma
- Alice Nakiri:
+ Nakiri Alice:
   - Shokugeki no Soma
- Ikumi Mito:
+ Mito Ikumi:
   - Shokugeki no Soma
   
 # Non Non Biyori
- Hotaru Ichijo:
+ Ichijou Hotaru:
   - Non Non Biyori
- Renge Miyauchi:
+ Miyauchi Renge:
   - Non Non Biyori
- Komari Koshigaya:
+ Koshigaya Komari:
   - Non Non Biyori
- Natsumi Koshigaya:
+ Koshigaya Natsumi:
   - Non Non Biyori
   
-# Suzumiya Haruhi no Yuutsu
- Haruhi Suzumiya:
-  - Suzumiya Haruhi no Yuutsu
- Yuki Nagato:
-  - Suzumiya Haruhi no Yuutsu
- Mikuru Asahina:
-  - Suzumiya Haruhi no Yuutsu
+# Suzumiya Haruhi no Yuuutsu
+ Suzumiya Haruhi:
+  - Suzumiya Haruhi no Yuuutsu
+ Nagato Yuki:
+  - Suzumiya Haruhi no Yuuutsu
+ Asahina Mikuru:
+  - Suzumiya Haruhi no Yuuutsu
   
 # Himegoto
- Hime Arikawa:
+ Arikawa Hime:
   - Hime Goto
   
 # Boku no Pico
@@ -297,13 +331,13 @@
   - Boku no Pico
   
 # Yuru Yuri
- Kyouko Toshinou:
+ Toshinou Kyouko:
   - Yuru Yuri
- Akari Akaza:
+ Akaza Akari:
   - Yuru Yuri
- Yui Funami:
+ Funami Yui:
   - Yuru Yuri
- Chinatsu Yosikawa:
+ Yoshikawa Chinatsu:
   - Yuru Yuri
   
 # TYPE-MOON
@@ -339,15 +373,17 @@
   - Fate/stay night
  Jack the Ripper:
   - Fate/Apocrypha
+ Assassin of Black:
+  - Fate/Apocrypha
  Semiramis:
   - Fate/Apocrypha
- Rin Tohsaka:
+ Tohsaka Rin:
   - Fate/stay night
- Sakura Matou:
+ Matou Sakura:
   - Fate/stay night - Heaven's Feel
  Illyasviel von Einzbern:
   - Fate/stay night
- Shiki Ryougi:
+ Ryougi Shiki:
   - Kara no Kyoukai
   
 # Hyperdimension Neptunia
@@ -365,7 +401,7 @@
   - Hyperdimension Neptunia
  Peashy:
   - Hyperdimension Neptunia
- Uzume Tennouboshi:
+ Tennouboushi Uzume:
   - Hyperdimension Neptunia
   
 # Arpeggio of Blue Steel
@@ -399,4 +435,61 @@
 # Bakatest
  Kinoshita Hideyoshi:
   - Baka to Test to Shoukanjuu
+  
+# Sword Art Online
+ Yuuki Asuna:
+  - Sword Art Online
+ Leafa:
+  - Sword Art Online
+ Silica:
+  - Sword Art Online
+ Asada Shino:
+  - Sword Art Online
+ Sinon:
+  - Sword Art Online
+ Kirigaya Suguha:
+  - Sword Art Online
+ Lisbeth:
+  - Sword Art Online
+  
+# Psycho-Pass
+ Tsunemori Akane:
+  - Psycho-Pass
+ Kunizuka Yayoi:
+  - Psycho-Pass
+ Karanomori Shion:
+  - Psycho-Pass
+ Shimotsuki Mika:
+  - Psycho-Pass
+ Shisui Mizue:
+  - Psycho-Pass
+  
+# Nisekoi
+ Kirisaki Chitoge:
+  - Nisekoi
+ Miyamoto Ruri:
+  - Nisekoi
+ Onodera Haru:
+  - Nisekoi
+ Onodera Kosaki:
+  - Nisekoi
+ Tachibana Marika:
+  - Nisekoi
+ Tsugumi Seishirou:
+  - Nisekoi
+  
+# Tengen Toppa Gurren Lagann
+ Nia Teppelin:
+  - Tengen Toppa Gurren Lagann
+ Yoko Littner:
+  - Tengen Toppa Gurren Lagann
+  
+# Highshool of The Dead
+ Busujima Saeko:
+  - Highshool of The Dead
+ Miyamoto Rei:
+  - Highshool of The Dead
+ Takagi Saya:
+  - Highshool of The Dead
+  
   
