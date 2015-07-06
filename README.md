@@ -10,4 +10,6 @@ Special thanks to [Reddy](http://twitter.com/Derpmia) and [Muaz](http://twitter.
 - Use WebHook and host the script on a server.
 - Refactor codes.
 - Add more categories, waifus and images.
+- choose random images of waifu, not the same one over and over again.
+- search images from more wider source.
 
